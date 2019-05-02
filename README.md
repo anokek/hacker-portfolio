@@ -1,10 +1,6 @@
 # hacker-portfolio
 
-This is my portfolio site. Use laptop for better experience 🙂  
-Demo: https://ilyagarishev.surge.sh/
-
-![first](https://i.imgur.com/ZLfU5X3.gif)
-
+Creating my hacker portfolio site ...
 
 ### Available commands:
 
